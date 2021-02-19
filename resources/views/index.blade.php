@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Reda Benhamid - Portfolio</title>
+    <title>Reda Benhamid | {{ $title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Template Google Fonts -->
@@ -22,35 +22,34 @@
     <!-- CSS Skin File -->
     <link href="css/skins/blueviolet.css" rel="stylesheet">
 
-    <!-- Modernizr JS File -->
-    <script src="js/modernizr.custom.js"></script>
+
 </head>
 
-<body class="home light">
+<body class="home light" style="overflow: auto;">
 
 <!-- Header Starts -->
 <header class="header" id="navbar-collapse-toggle">
     <!-- Fixed Navigation Starts -->
     <ul class="icon-menu d-none d-lg-block revealator-slideup revealator-once revealator-delay1">
-        <li class="icon-box active">
+        <li class="icon-box @if ($nav === 'home') active @endif">
             <i class="fa fa-home"></i>
-            <a href="{{ url('home') }}">
+            <a href="{{ url('/') }}">
                 <h2>Home</h2>
             </a>
         </li>
-        <li class="icon-box">
+        <li class="icon-box @if ($nav === 'about') active @endif">
             <i class="fa fa-user"></i>
             <a href="{{ url('about') }}">
                 <h2>About</h2>
             </a>
         </li>
-        <li class="icon-box">
+        <li class="icon-box @if ($nav === 'portfolio') active @endif">
             <i class="fa fa-briefcase"></i>
             <a href="{{ url('portfolio') }}">
                 <h2>Portfolio</h2>
             </a>
         </li>
-        <li class="icon-box">
+        <li class="icon-box @if ($nav === 'contact') active @endif">
             <i class="fa fa-envelope-open"></i>
             <a href="{{ url('contact') }}">
                 <h2>Contact</h2>
@@ -67,10 +66,10 @@
             <span></span>
             <span></span>
             <ul class="list-unstyled" id="menu">
-                <li class="active"><a href="index.html"><i class="fa fa-home"></i><span>Home</span></a></li>
-                <li><a href="{{ url('about') }}"><i class="fa fa-user"></i><span>About</span></a></li>
-                <li><a href="{{ url('portfolio') }}"><i class="fa fa-folder-open"></i><span>Portfolio</span></a></li>
-                <li><a href="{{ url('contact') }}"><i class="fa fa-envelope-open"></i><span>Contact</span></a></li>
+                <li @if ($nav === "home") class="active" @endif><a href="{{ url('/') }}"><i class="fa fa-home"></i><span>Home</span></a></li>
+                <li @if ($nav === "about") class="active" @endif><a href="{{ url('about') }}"><i class="fa fa-user"></i><span>About</span></a></li>
+                <li @if ($nav === "portfolio") class="active" @endif><a href="{{ url('portfolio') }}"><i class="fa fa-folder-open"></i><span>Portfolio</span></a></li>
+                <li @if ($nav === "contact") class="active" @endif><a href="{{ url('contact') }}"><i class="fa fa-envelope-open"></i><span>Contact</span></a></li>
             </ul>
         </div>
     </nav>
@@ -79,6 +78,18 @@
 <!-- Header Ends -->
 @section('main_block')
 @show
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3EDX2ESL79"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-3EDX2ESL79');
+</script>
+
 
 <!-- Template JS Files -->
 <script src="js/jquery-3.5.0.min.js"></script>

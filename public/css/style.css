@@ -1275,8 +1275,8 @@ body.light hr.separator {
     content: "\f08e";
   }
 
-  .btn.btn-download:before {
-    content: "\f019";
+  .btn.btn-linkedin:before {
+    content: "\f0e1";
   }
 
   .btn.btn-contact:before {

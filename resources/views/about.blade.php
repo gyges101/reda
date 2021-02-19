@@ -24,24 +24,23 @@
                     </div>
                     <div class="col-6">
                         <ul class="about-list list-unstyled open-sans-font">
-                            <li> <span class="title">first name :</span> <span class="value d-block d-sm-inline-block d-lg-block d-xl-inline-block">Lucy</span> </li>
-                            <li> <span class="title">last name :</span> <span class="value d-block d-sm-inline-block d-lg-block d-xl-inline-block">Milner</span> </li>
-                            <li> <span class="title">Age :</span> <span class="value d-block d-sm-inline-block d-lg-block d-xl-inline-block">27 Years</span> </li>
-                            <li> <span class="title">Nationality :</span> <span class="value d-block d-sm-inline-block d-lg-block d-xl-inline-block">Tunisian</span> </li>
+                            <li> <span class="title">first name :</span> <span class="value d-block d-sm-inline-block d-lg-block d-xl-inline-block">Reda</span> </li>
+                            <li> <span class="title">last name :</span> <span class="value d-block d-sm-inline-block d-lg-block d-xl-inline-block">Benhamid</span> </li>
+                            <li> <span class="title">Age :</span> <span class="value d-block d-sm-inline-block d-lg-block d-xl-inline-block">21 Years</span> </li>
+                            <li> <span class="title">Nationality :</span> <span class="value d-block d-sm-inline-block d-lg-block d-xl-inline-block">Moroccan</span> </li>
                             <li> <span class="title">Freelance :</span> <span class="value d-block d-sm-inline-block d-lg-block d-xl-inline-block">Available</span> </li>
                         </ul>
                     </div>
                     <div class="col-6">
                         <ul class="about-list list-unstyled open-sans-font">
-                            <li> <span class="title">Address :</span> <span class="value d-block d-sm-inline-block d-lg-block d-xl-inline-block">Tunis</span> </li>
-                            <li> <span class="title">phone :</span> <span class="value d-block d-sm-inline-block d-lg-block d-xl-inline-block">+21621184010</span> </li>
-                            <li> <span class="title">Email :</span> <span class="value d-block d-sm-inline-block d-lg-block d-xl-inline-block">you@mail.com</span> </li>
-                            <li> <span class="title">Skype :</span> <span class="value d-block d-sm-inline-block d-lg-block d-xl-inline-block">lucy.milner</span> </li>
-                            <li> <span class="title">langages :</span> <span class="value d-block d-sm-inline-block d-lg-block d-xl-inline-block">French, English</span> </li>
+                            <li> <span class="title">phone :</span> <span class="value d-block d-sm-inline-block d-lg-block d-xl-inline-block">+212-777-338-028</span> </li>
+                            <li> <span class="title">Email :</span> <span class="value d-block d-sm-inline-block d-lg-block d-xl-inline-block">redabenhamid@yahoo.com</span> </li>
+                            <li> <span class="title">langages :</span> <span class="value d-block d-sm-inline-block d-lg-block d-xl-inline-block">French, English, Arabic</span> </li>
+                            <li><span class="value d-block d-sm-inline-block d-lg-block d-xl-inline-block">Spanish, Russian</span> </li>
                         </ul>
                     </div>
                     <div class="col-12 mt-3">
-                        <a href="about.html" class="btn btn-download">Download CV</a>
+                        <a href="https://www.linkedin.com/in/reda-benhamid-b75b2a1b3" class="btn btn-linkedin" target="_blank">LinkedIn Profile</a>
                     </div>
                 </div>
             </div>
@@ -51,26 +50,20 @@
                 <div class="row">
                     <div class="col-6">
                         <div class="box-stats with-margin">
-                            <h3 class="poppins-font position-relative">12</h3>
+                            <h3 class="poppins-font position-relative">5</h3>
                             <p class="open-sans-font m-0 position-relative text-uppercase">years of <span class="d-block">experience</span></p>
                         </div>
                     </div>
                     <div class="col-6">
                         <div class="box-stats with-margin">
-                            <h3 class="poppins-font position-relative">97</h3>
+                            <h3 class="poppins-font position-relative">28</h3>
                             <p class="open-sans-font m-0 position-relative text-uppercase">completed <span class="d-block">projects</span></p>
                         </div>
                     </div>
                     <div class="col-6">
                         <div class="box-stats">
-                            <h3 class="poppins-font position-relative">81</h3>
+                            <h3 class="poppins-font position-relative">25</h3>
                             <p class="open-sans-font m-0 position-relative text-uppercase">Happy<span class="d-block">customers</span></p>
-                        </div>
-                    </div>
-                    <div class="col-6">
-                        <div class="box-stats">
-                            <h3 class="poppins-font position-relative">53</h3>
-                            <p class="open-sans-font m-0 position-relative text-uppercase">awards <span class="d-block">won</span></p>
                         </div>
                     </div>
                 </div>
@@ -84,64 +77,54 @@
                 <h3 class="text-uppercase pb-4 pb-sm-5 mb-3 mb-sm-0 text-left text-sm-center custom-title ft-wt-600">My Skills</h3>
             </div>
             <div class="col-6 col-md-3 mb-3 mb-sm-5">
-                <div class="c100 p25">
-                    <span>25%</span>
+                <div class="c100 p67">
+                    <span>67%</span>
                     <div class="slice">
                         <div class="bar"></div>
                         <div class="fill"></div>
                     </div>
                 </div>
-                <h6 class="text-uppercase open-sans-font text-center mt-2 mt-sm-4">html</h6>
+                <h6 class="text-uppercase open-sans-font text-center mt-2 mt-sm-4">JAVA</h6>
+            </div> 
+            <div class="col-6 col-md-3 mb-3 mb-sm-5">
+                <div class="c100 p82">
+                    <span>82%</span>
+                    <div class="slice">
+                        <div class="bar"></div>
+                        <div class="fill"></div>
+                    </div>
+                </div>
+                <h6 class="text-uppercase open-sans-font text-center mt-2 mt-sm-4">PHP</h6>
             </div>
             <div class="col-6 col-md-3 mb-3 mb-sm-5">
-                <div class="c100 p89">
-                    <span>89%</span>
+                <div class="c100 p87">
+                    <span>87%</span>
                     <div class="slice">
                         <div class="bar"></div>
                         <div class="fill"></div>
                     </div>
                 </div>
-                <h6 class="text-uppercase open-sans-font text-center mt-2 mt-sm-4">javascript</h6>
+                <h6 class="text-uppercase open-sans-font text-center mt-2 mt-sm-4">PYTHON</h6>
             </div>
             <div class="col-6 col-md-3 mb-3 mb-sm-5">
-                <div class="c100 p70">
-                    <span>70%</span>
+                <div class="c100 p77">
+                    <span>77%</span>
                     <div class="slice">
                         <div class="bar"></div>
                         <div class="fill"></div>
                     </div>
                 </div>
-                <h6 class="text-uppercase open-sans-font text-center mt-2 mt-sm-4">css</h6>
+                <h6 class="text-uppercase open-sans-font text-center mt-2 mt-sm-4">C#</h6>
             </div>
             <div class="col-6 col-md-3 mb-3 mb-sm-5">
-                <div class="c100 p66">
-                    <span>66%</span>
+                <div class="c100 p64">
+                    <span>64%</span>
                     <div class="slice">
                         <div class="bar"></div>
                         <div class="fill"></div>
                     </div>
                 </div>
-                <h6 class="text-uppercase open-sans-font text-center mt-2 mt-sm-4">php</h6>
-            </div>
-            <div class="col-6 col-md-3 mb-3 mb-sm-5">
-                <div class="c100 p95">
-                    <span>95%</span>
-                    <div class="slice">
-                        <div class="bar"></div>
-                        <div class="fill"></div>
-                    </div>
-                </div>
-                <h6 class="text-uppercase open-sans-font text-center mt-2 mt-sm-4">wordpress</h6>
-            </div>
-            <div class="col-6 col-md-3 mb-3 mb-sm-5">
-                <div class="c100 p50">
-                    <span>50%</span>
-                    <div class="slice">
-                        <div class="bar"></div>
-                        <div class="fill"></div>
-                    </div>
-                </div>
-                <h6 class="text-uppercase open-sans-font text-center mt-2 mt-sm-4">jquery</h6>
+                <h6 class="text-uppercase open-sans-font text-center mt-2 mt-sm-4">C</h6>
             </div>
             <div class="col-6 col-md-3 mb-3 mb-sm-5">
                 <div class="c100 p65">
@@ -151,17 +134,47 @@
                         <div class="fill"></div>
                     </div>
                 </div>
-                <h6 class="text-uppercase open-sans-font text-center mt-2 mt-sm-4">angular</h6>
+                <h6 class="text-uppercase open-sans-font text-center mt-2 mt-sm-4">JAVASCRIPT</h6>
             </div>
             <div class="col-6 col-md-3 mb-3 mb-sm-5">
-                <div class="c100 p45">
-                    <span>45%</span>
+                <div class="c100 p84">
+                    <span>84%</span>
                     <div class="slice">
                         <div class="bar"></div>
                         <div class="fill"></div>
                     </div>
                 </div>
-                <h6 class="text-uppercase open-sans-font text-center mt-2 mt-sm-4">react</h6>
+                <h6 class="text-uppercase open-sans-font text-center mt-2 mt-sm-4">LARAVEL</h6>
+            </div>
+            <div class="col-6 col-md-3 mb-3 mb-sm-5">
+                <div class="c100 p88">
+                    <span>88%</span>
+                    <div class="slice">
+                        <div class="bar"></div>
+                        <div class="fill"></div>
+                    </div>
+                </div>
+                <h6 class="text-uppercase open-sans-font text-center mt-2 mt-sm-4">DJANGO</h6>
+            </div>
+            <div class="col-6 col-md-3 mb-3 mb-sm-5">
+                <div class="c100 p79">
+                    <span>79%</span>
+                    <div class="slice">
+                        <div class="bar"></div>
+                        <div class="fill"></div>
+                    </div>
+                </div>
+                <h6 class="text-uppercase open-sans-font text-center mt-2 mt-sm-4">HTML</h6>
+            </div>
+            <div class="col-6 col-md-3 mb-3 mb-sm-5">
+                <div class="c100 p72">
+                    <span>72%</span>
+                    <div class="slice">
+                        <div class="bar"></div>
+                        <div class="fill"></div>
+                    </div>
+                </div>
+                <h6 class="text-uppercase open-sans-font text-center mt-2 mt-sm-4">CSS</h6>
             </div>
         </div>
         <!-- Skills Ends -->
@@ -180,24 +193,17 @@
                             </div>
                             <span class="time open-sans-font text-uppercase">2018 - Present</span>
                             <h5 class="poppins-font text-uppercase">Web Developer <span class="place open-sans-font">Envato</span></h5>
-                            <p class="open-sans-font">Lorem ipsum dolor sit amet, consectetur tempor incididunt ut labore adipisicing elit, </p>
+                            <p class="open-sans-font">Full-Stack Developper In Envato Market </p>
                         </li>
                         <li>
                             <div class="icon">
                                 <i class="fa fa-briefcase"></i>
                             </div>
-                            <span class="time open-sans-font text-uppercase">2013 - 2018</span>
-                            <h5 class="poppins-font text-uppercase">UI/UX Designer <span class="place open-sans-font">Themeforest</span></h5>
-                            <p class="open-sans-font">Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol elit, tempor incididunt</p>
+                            <span class="time open-sans-font text-uppercase">2018 - Present</span>
+                            <h5 class="poppins-font text-uppercase">Freelance <span class="place open-sans-font">Jobs</span></h5>
+                            <p class="open-sans-font">Developping Mobile Apps, WebApp, Webscraping Scripts</p>
                         </li>
-                        <li>
-                            <div class="icon">
-                                <i class="fa fa-briefcase"></i>
-                            </div>
-                            <span class="time open-sans-font text-uppercase">2005 - 2013</span>
-                            <h5 class="poppins-font text-uppercase">Consultant <span class="place open-sans-font">Videohive</span></h5>
-                            <p class="open-sans-font">Lorem ipsum dolor sit amet, tempor incididunt ut laboreconsectetur elit, sed do eiusmod tempor duntt</p>
-                        </li>
+                
                     </ul>
                 </div>
             </div>
@@ -208,26 +214,19 @@
                             <div class="icon">
                                 <i class="fa fa-graduation-cap"></i>
                             </div>
-                            <span class="time open-sans-font text-uppercase">2015</span>
-                            <h5 class="poppins-font text-uppercase">Engineering Degree <span class="place open-sans-font">Oxford University</span></h5>
-                            <p class="open-sans-font">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do tempor incididunt ut labore</p>
+                            <span class="time open-sans-font text-uppercase">2019</span>
+                            <h5 class="poppins-font text-uppercase">Bachelor Degree <span class="place open-sans-font">High School Morocco</span></h5>
+                            <p class="open-sans-font">Bachelor Degree Accounting Major</p>
                         </li>
                         <li>
                             <div class="icon">
                                 <i class="fa fa-graduation-cap"></i>
                             </div>
-                            <span class="time open-sans-font text-uppercase">2012</span>
-                            <h5 class="poppins-font text-uppercase">Master Degree <span class="place open-sans-font">Kiev University</span></h5>
-                            <p class="open-sans-font">Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut adipisicing</p>
+                            <span class="time open-sans-font text-uppercase">2020 - 2022</span>
+                            <h5 class="poppins-font text-uppercase">A.A Degree <span class="place open-sans-font">High Institu Of Technologie</span></h5>
+                            <p class="open-sans-font">Management Technique Major</p>
                         </li>
-                        <li>
-                            <div class="icon">
-                                <i class="fa fa-graduation-cap"></i>
-                            </div>
-                            <span class="time open-sans-font text-uppercase">2009</span>
-                            <h5 class="poppins-font text-uppercase">Bachelor Degree <span class="place open-sans-font">Tunis High School</span></h5>
-                            <p class="open-sans-font">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor ut labore</p>
-                        </li>
+                
                     </ul>
                 </div>
             </div>
