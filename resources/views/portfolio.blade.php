@@ -93,7 +93,7 @@
                 <!-- Portfolio Item Starts -->
                 <li>
                     <figure>
-                        <img src="img/projects/project-1.jpg" alt="Portolio Image" />
+                        <img src="/img/projects/project-1.jpg" alt="Portolio Image" />
                         <div><span>Image Project</span></div>
                     </figure>
                 </li>
@@ -101,7 +101,7 @@
                 <!-- Portfolio Item Starts -->
                 <li>
                     <figure>
-                        <img src="img/projects/project-2.jpg" alt="Portolio Image" />
+                        <img src="/img/projects/project-2.jpg" alt="Portolio Image" />
                         <div><span>Youtube Project</span></div>
                     </figure>
                 </li>
@@ -109,7 +109,7 @@
                 <!-- Portfolio Item Starts -->
                 <li>
                     <figure>
-                        <img src="img/projects/project-3.jpg" alt="Portolio Image" />
+                        <img src="/img/projects/project-3.jpg" alt="Portolio Image" />
                         <div><span>Slider Project</span></div>
                     </figure>
                 </li>
@@ -117,7 +117,7 @@
                 <!-- Portfolio Item Starts -->
                 <li>
                     <figure>
-                        <img src="img/projects/project-4.jpg" alt="Portolio Image" />
+                        <img src="/img/projects/project-4.jpg" alt="Portolio Image" />
                         <div><span>Local Video Project</span></div>
                     </figure>
                 </li>
@@ -125,7 +125,7 @@
                 <!-- Portfolio Item Starts -->
                 <li>
                     <figure>
-                        <img src="img/projects/project-5.jpg" alt="Portolio Image" />
+                        <img src="/img/projects/project-5.jpg" alt="Portolio Image" />
                         <div><span>Image Project</span></div>
                     </figure>
                 </li>
@@ -133,7 +133,7 @@
                 <!-- Portfolio Item Starts -->
                 <li>
                     <figure>
-                        <img src="img/projects/project-6.jpg" alt="Portolio Image" />
+                        <img src="/img/projects/project-6.jpg" alt="Portolio Image" />
                         <div><span>Image Project</span></div>
                     </figure>
                 </li>
@@ -178,13 +178,13 @@
                             <!-- The slideshow -->
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                    <img src="img/projects/project-3.jpg" alt="slide 1">
+                                    <img src="/img/projects/project-3.jpg" alt="slide 1">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="img/projects/project-2.jpg" alt="slide 2">
+                                    <img src="/img/projects/project-2.jpg" alt="slide 2">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="img/projects/project-1.jpg" alt="slide 3">
+                                    <img src="/img/projects/project-1.jpg" alt="slide 3">
                                 </div>
                             </div>
                         </div>
@@ -224,13 +224,13 @@
                             <!-- The slideshow -->
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                    <img src="img/projects/project-3.jpg" alt="slide 1">
+                                    <img src="/img/projects/project-3.jpg" alt="slide 1">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="img/projects/project-2.jpg" alt="slide 2">
+                                    <img src="/img/projects/project-2.jpg" alt="slide 2">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="img/projects/project-1.jpg" alt="slide 3">
+                                    <img src="/img/projects/project-1.jpg" alt="slide 3">
                                 </div>
                             </div>
                         </div>
@@ -270,13 +270,13 @@
                             <!-- The slideshow -->
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                    <img src="img/projects/project-3.jpg" alt="slide 1">
+                                    <img src="/img/projects/project-3.jpg" alt="slide 1">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="img/projects/project-2.jpg" alt="slide 2">
+                                    <img src="/img/projects/project-2.jpg" alt="slide 2">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="img/projects/project-1.jpg" alt="slide 3">
+                                    <img src="/img/projects/project-1.jpg" alt="slide 3">
                                 </div>
                             </div>
                         </div>
@@ -316,13 +316,13 @@
                             <!-- The slideshow -->
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                    <img src="img/projects/project-3.jpg" alt="slide 1">
+                                    <img src="/img/projects/project-3.jpg" alt="slide 1">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="img/projects/project-2.jpg" alt="slide 2">
+                                    <img src="/img/projects/project-2.jpg" alt="slide 2">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="img/projects/project-1.jpg" alt="slide 3">
+                                    <img src="/img/projects/project-1.jpg" alt="slide 3">
                                 </div>
                             </div>
                         </div>
@@ -362,13 +362,13 @@
                             <!-- The slideshow -->
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                    <img src="img/projects/project-3.jpg" alt="slide 1">
+                                    <img src="/img/projects/project-3.jpg" alt="slide 1">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="img/projects/project-2.jpg" alt="slide 2">
+                                    <img src="/img/projects/project-2.jpg" alt="slide 2">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="img/projects/project-1.jpg" alt="slide 3">
+                                    <img src="/img/projects/project-1.jpg" alt="slide 3">
                                 </div>
                             </div>
                         </div>
@@ -408,13 +408,13 @@
                             <!-- The slideshow -->
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                    <img src="img/projects/project-3.jpg" alt="slide 1">
+                                    <img src="/img/projects/project-3.jpg" alt="slide 1">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="img/projects/project-2.jpg" alt="slide 2">
+                                    <img src="/img/projects/project-2.jpg" alt="slide 2">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="img/projects/project-1.jpg" alt="slide 3">
+                                    <img src="/img/projects/project-1.jpg" alt="slide 3">
                                 </div>
                             </div>
                         </div>
@@ -426,9 +426,9 @@
             </ul>
             <!-- Portfolio Navigation Starts -->
             <nav>
-                <span class="icon nav-prev"><img src="img/projects/navigation/left-arrow-light.png" alt="previous"></span>
-                <span class="icon nav-next"><img src="img/projects/navigation/right-arrow-light.png" alt="next"></span>
-                <span class="nav-close"><img src="img/projects/navigation/close-button-light.png" alt="close"> </span>
+                <span class="icon nav-prev"><img src="/img/projects/navigation/left-arrow-light.png" alt="previous"></span>
+                <span class="icon nav-next"><img src="/img/projects/navigation/right-arrow-light.png" alt="next"></span>
+                <span class="nav-close"><img src="/img/projects/navigation/close-button-light.png" alt="close"> </span>
             </nav>
             <!-- Portfolio Navigation Ends -->
         </section>

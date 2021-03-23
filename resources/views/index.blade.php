@@ -5,6 +5,9 @@
 <head>
     <meta charset="utf-8">
     <title>Reda Benhamid | {{ $title }}</title>
+    <meta name="author" content="Reda Benhamid">
+    <meta name="keywords" content="HTML, CSS, JavaScript, Python, PHP, Web Developping">
+    <meta name="description" content="Hi There I'am Reda A Developper Full-Stack, i work as a freelancer with remote jobs and tasks">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Template Google Fonts -->
